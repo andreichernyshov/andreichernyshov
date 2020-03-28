@@ -1,0 +1,3 @@
+'$ ssh-keygen -t rsa -b 4096 -C "andrei.terex89@gmail.com"
+> Generating public/private rsa key pair.
+> Enter a file in which to save the key (/c/Users/andreichernyshov/.ssh/id_rsa):andreichernyshov'
