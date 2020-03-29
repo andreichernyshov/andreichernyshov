@@ -1,5 +1,5 @@
 ' $ ssh-keygen -t rsa -b 4096 -C "andrei.terex89@gmail.com"
 > Generating public/private rsa key pair.
 > Enter a file in which to save the key (/c/Users/Default/.ssh/id_rsa):
-> Enter passphrase (empty for no passphrase): "zimaCOOL"
-> Enter same passphrase again: "zimaCOOL"'
+> Enter passphrase (empty for no passphrase): "git@github.com:andreichernyshov/andreichernyshov.git"
+> Enter same passphrase again: "git@github.com:andreichernyshov/andreichernyshov.git"'
