@@ -13,4 +13,5 @@ Some-times Stack of technologies for front-end web-dev HTTP+CSS+JS.
 - 👯 I’m looking to collaborate on ... wright now I can't answear on this question... unfortionaly ((
 - 💬 Ask me about ... how does yor PC or NoteBook works (what happends when you click on power button, step by step and no matter wich OS does installed).
 - 📫 How to reach me: ... https://t.me/Personal_streight_contact (@Personal_streight_contact).
-- ⚡ Fun fact: ... I working on Win7 but use it like Linux sytem thrue PowerShell, and BASH offcourse... But in special cases use VM, only with on Debian pkgs, as Kali 2020.3.
+- ⚡ Fun fact: ... I working on LGA-775 x86 base cheapset architecture, with Win7 but use it like Linux sytem thrue PowerShell, and BASH offcourse... And it's
+allmust 15 years-old... and I am shure that it's not funny, but fact))
